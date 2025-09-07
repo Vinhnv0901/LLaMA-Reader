@@ -19,3 +19,5 @@ sentence_transformers
 tokenizers
 xformers
 faiss-cpu
+# pip uninstall torch torchvision torchaudio -y
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
